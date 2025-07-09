@@ -1,0 +1,211 @@
+{
+    "Pepper__bell___Bacterial_spot": {
+        "crop": "Pepper (Bell)",
+        "disease": "Bacterial spot",
+        "cause": "Caused by the bacterium *Xanthomonas campestris*, which thrives in warm, wet conditions and spreads through splashing water, tools, and infected plant material.",
+        "remedies": [
+            "Apply copper-based bactericides regularly to inhibit bacterial growth.",
+            "Avoid overhead irrigation which facilitates bacterial spread via water droplets.",
+            "Practice crop rotation and immediately remove infected plants to reduce inoculum levels."
+        ],
+        "prevention": [
+            "Start with certified disease-free seeds to prevent initial contamination.",
+            "Maintain strict field hygiene including sanitized tools and clean equipment.",
+            "Refrain from handling plants when wet to prevent spreading bacteria."
+        ],
+        "crop_care": "Ensure adequate spacing between plants to promote airflow, reduce humidity, and perform regular inspections for early symptoms."
+    },
+    "Pepper__bell___healthy": {
+        "crop": "Pepper (Bell)",
+        "disease": "Healthy",
+        "cause": "No disease present in the plant.",
+        "remedies": [],
+        "prevention": [],
+        "crop_care": "Maintain optimal soil fertility, consistent watering, proper sunlight exposure, and monitor regularly for pests or abnormalities."
+    },
+    "Potato___Early_blight": {
+        "crop": "Potato",
+        "disease": "Early blight",
+        "cause": "A fungal disease caused by *Alternaria solani* that affects older leaves, creating concentric rings and eventually causing defoliation.",
+        "remedies": [
+            "Use fungicides such as mancozeb, chlorothalonil, or azoxystrobin as per recommended guidelines.",
+            "Promptly remove infected leaves to limit disease spread.",
+            "Ensure adequate spacing between plants to improve airflow and reduce humidity."
+        ],
+        "prevention": [
+            "Practice 2–3 year crop rotation to break the disease cycle.",
+            "Select early blight-resistant potato varieties whenever possible.",
+            "Avoid irrigation late in the day to minimize leaf wetness duration."
+        ],
+        "crop_care": "Use organic mulch around the base of the plants to prevent soil-borne spores from splashing onto leaves."
+    },
+    "Potato___healthy": {
+        "crop": "Potato",
+        "disease": "Healthy",
+        "cause": "No disease",
+        "remedies": [],
+        "prevention": [],
+        "crop_care": "Ensure consistent watering schedules, monitor for pests like aphids and beetles, and maintain proper soil drainage and nutrient levels."
+    },
+    "Potato___Late_blight": {
+        "crop": "Potato",
+        "disease": "Late blight",
+        "cause": "Caused by *Phytophthora infestans*, a fast-spreading fungus-like organism that thrives in cool, moist environments and can decimate crops rapidly.",
+        "remedies": [
+            "Begin preventative fungicide sprays during early stages of crop growth.",
+            "Immediately uproot and destroy any infected plants to prevent rapid spread.",
+            "Avoid overhead irrigation to minimize leaf wetness and spore dispersal."
+        ],
+        "prevention": [
+            "Plant only certified, disease-free seed potatoes.",
+            "Avoid planting in fields previously affected by late blight.",
+            "Ensure proper field drainage and avoid dense planting."
+        ],
+        "crop_care": "Use raised beds or ridges to improve water runoff and avoid soil saturation around plant roots."
+    },
+    "Tomato_Target_Spot": {
+        "crop": "Tomato",
+        "disease": "Target Spot",
+        "cause": "Caused by the fungus *Corynespora cassiicola*, which produces target-like lesions on leaves and can lead to premature defoliation in humid conditions.",
+        "remedies": [
+            "Apply fungicides like azoxystrobin or chlorothalonil at early signs of infection.",
+            "Ensure wide spacing between plants to improve air circulation.",
+            "Remove and destroy affected foliage promptly."
+        ],
+        "prevention": [
+            "Avoid overhead watering to reduce humidity around foliage.",
+            "Rotate crops with non-host plants every season."
+        ],
+        "crop_care": "Clean debris and weeds in the field regularly and maintain soil moisture without excess."
+    },
+    "Tomato_Tomato_mosaic_virus": {
+        "crop": "Tomato",
+        "disease": "Tomato mosaic virus",
+        "cause": "A viral disease caused by Tomato Mosaic Virus (ToMV), which spreads through contaminated tools, hands, and infected plant materials.",
+        "remedies": [
+            "Remove and destroy all symptomatic plants to prevent further spread.",
+            "Sanitize tools and equipment frequently.",
+            "Manage insect vectors such as aphids and whiteflies using safe insecticides."
+        ],
+        "prevention": [
+            "Use resistant or tolerant tomato varieties.",
+            "Wash hands thoroughly and disinfect tools before and after working in fields."
+        ],
+        "crop_care": "Avoid handling plants when wet and maintain optimal growing conditions to reduce plant stress."
+    },
+    "Tomato_Tomato_YellowLeaf_Curl_Virus": {
+        "crop": "Tomato",
+        "disease": "Tomato Yellow Leaf Curl Virus",
+        "cause": "Caused by TYLCV and transmitted mainly by whiteflies, leading to stunted growth, leaf curling, and yellowing.",
+        "remedies": [
+            "Apply recommended insecticides to control whitefly populations.",
+            "Remove and destroy infected plants immediately upon detection.",
+            "Use yellow sticky traps to monitor and reduce whitefly presence."
+        ],
+        "prevention": [
+            "Plant TYLCV-resistant varieties.",
+            "Use floating row covers early in the season to prevent vector access."
+        ],
+        "crop_care": "Keep the field weed-free as many weeds act as alternate hosts for whiteflies."
+    },
+    "Tomato_Bacterial_spot": {
+        "crop": "Tomato",
+        "disease": "Bacterial spot",
+        "cause": "Caused by *Xanthomonas* spp., this disease affects leaves, stems, and fruit, particularly under warm and wet conditions.",
+        "remedies": [
+            "Spray copper-based bactericides during early plant stages.",
+            "Avoid handling or pruning plants when they are wet.",
+            "Remove and destroy infected plant parts to limit spread."
+        ],
+        "prevention": [
+            "Use only certified and treated seeds.",
+            "Avoid splashing irrigation water directly on foliage."
+        ],
+        "crop_care": "Ensure adequate plant spacing and regularly prune to improve airflow and reduce moisture buildup."
+    },
+    "Tomato_Early_blight": {
+        "crop": "Tomato",
+        "disease": "Early blight",
+        "cause": "Caused by *Alternaria solani*, a fungus that produces dark, concentric lesions on leaves and stems, often starting from the lower foliage."
+        ,
+        "remedies": [
+            "Use preventive fungicides at regular intervals.",
+            "Immediately remove affected foliage to prevent spore spread.",
+            "Avoid overhead watering and irrigate at the base."
+        ],
+        "prevention": [
+            "Cultivate resistant tomato varieties.",
+            "Implement crop rotation practices and avoid nightshades for successive years."
+        ],
+        "crop_care": "Control weeds, maintain good air circulation, and reduce leaf wetness through mulching."
+    },
+    "Tomato_healthy": {
+        "crop": "Tomato",
+        "disease": "Healthy",
+        "cause": "No disease",
+        "remedies": [],
+        "prevention": [],
+        "crop_care": "Ensure balanced fertilization, regular irrigation, pest monitoring, and timely pruning for overall plant vigor."
+    },
+    "Tomato_Late_blight": {
+        "crop": "Tomato",
+        "disease": "Late blight",
+        "cause": "Caused by *Phytophthora infestans*, this disease spreads rapidly in humid conditions, causing dark lesions on leaves, stems, and fruits."
+        ,
+        "remedies": [
+            "Use fungicides preventively, particularly during wet seasons.",
+            "Uproot and destroy affected plants immediately.",
+            "Improve air circulation and avoid dense planting."
+        ],
+        "prevention": [
+            "Avoid using infected seeds or planting material.",
+            "Choose well-drained and sun-exposed planting sites."
+        ],
+        "crop_care": "Apply mulch to reduce soil splash, monitor daily for symptoms, and prune lower leaves to prevent contact with soil."
+    },
+    "Tomato_Leaf_Mold": {
+        "crop": "Tomato",
+        "disease": "Leaf Mold",
+        "cause": "A fungal infection caused by *Fulvia fulva*, it typically affects tomatoes in high humidity environments, producing yellow spots on upper leaves and mold on the undersides.",
+        "remedies": [
+            "Improve air movement using fans or spacing.",
+            "Apply sulfur-based or copper fungicides.",
+            "Prune and remove lower or infected leaves."
+        ],
+        "prevention": [
+            "Irrigate at the base and avoid wetting foliage.",
+            "Keep greenhouse humidity levels below 85%."
+        ],
+        "crop_care": "Sanitize greenhouse structures and avoid overcrowding to prevent fungal buildup."
+    },
+    "Tomato_Septoria_leaf_spot": {
+        "crop": "Tomato",
+        "disease": "Septoria leaf spot",
+        "cause": "Caused by the fungus *Septoria lycopersici*, characterized by small, circular spots with dark margins on older leaves.",
+        "remedies": [
+            "Apply fungicides such as chlorothalonil or mancozeb.",
+            "Destroy infected debris to reduce overwintering inoculum.",
+            "Rotate crops and avoid overhead irrigation."
+        ],
+        "prevention": [
+            "Use mulch to reduce soil splashing.",
+            "Prune lower leaves and ensure proper spacing."
+        ],
+        "crop_care": "Irrigate early in the day, keep fields clean, and practice crop sanitation regularly."
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+        "crop": "Tomato",
+        "disease": "Spider mites (Two-spotted)",
+        "cause": "Infestation by *Tetranychus urticae*, tiny arachnids that feed on plant sap, causing yellowing and stippling on leaves.",
+        "remedies": [
+            "Apply miticides or neem oil to control infestations.",
+            "Increase humidity which reduces mite reproduction.",
+            "Use strong water spray to dislodge mites from leaves."
+        ],
+        "prevention": [
+            "Routinely inspect the undersides of leaves for mites or webbing.",
+            "Avoid plant water stress and maintain healthy foliage."
+        ],
+        "crop_care": "Encourage natural predators such as ladybugs and predatory mites for biological control."
+    }
+}
